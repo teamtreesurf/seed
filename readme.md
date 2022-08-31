@@ -8,12 +8,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/teamdrumwork/snow/blob/make/view/base.svg?raw=true' height='192'>
+  <img src='https://github.com/teamdrumwork/seed/blob/make/view/view.svg?raw=true' height='192'>
 </p>
 
-<h3 align='center'>snow</h3>
+<h3 align='center'>seed</h3>
 <p align='center'>
-  Structured data for free
+  Structured Open Data
 </p>
 
 <br/>
