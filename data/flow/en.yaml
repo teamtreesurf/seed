@@ -1,0 +1,12 @@
+# yaml-language-server: $schema=../../types/schema.yaml#/components/schemas/flow_list
+
+- slug: food
+  pronunciation:
+    - text: fud
+  transcription:
+    - text: food
+- slug: bear
+  pronunciation:
+    - text: bEr
+  transcription:
+    - text: bear

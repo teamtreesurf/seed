@@ -1,0 +1,7 @@
+
+notion:
+  - slug: /123123
+    notion:
+      - /something/primitive
+    flow:
+      - /language/en/flow/this

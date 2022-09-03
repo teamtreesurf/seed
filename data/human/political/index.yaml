@@ -1,0 +1,25 @@
+
+- slug: /human/joe-biden
+  name:
+    common: Joe Biden
+  note: Current President of the United States
+  image: https://file.tree.surf/image/human/joe-biden/profile
+  twitter: JoeBiden
+  wikipedia: https://en.wikipedia.org/wiki/Joe_Biden
+  event:
+    - note: Joe Biden voted against abortion as a choice.
+    - action:
+        - /action/is/political
+      path: /event/joe-biden/relieved-10k-student-debt
+      date: /time/2022/08/24
+      note: Joe Biden relieved $10k-20k in student debt.
+      source:
+        - https://twitter.com/JoeBiden/status/1562578252614361088
+- slug: /human/xi-jinping
+- slug: /human/vladimir-putin
+  name: Vladimir Putin
+  note: Current President of Russia
+- slug: /human/mohammed-bin-salman
+  note: Crown Prince of Saudi Arabia
+- slug: /human/donald-trump
+  note: 45th President of the United States

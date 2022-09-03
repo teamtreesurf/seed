@@ -1,0 +1,2242 @@
+[
+  {
+    "range": {
+      "start": 0,
+      "end": 127
+    },
+    "title": "Basic Latin"
+  },
+  {
+    "range": {
+      "start": 128,
+      "end": 255
+    },
+    "title": "Latin-1 Supplement"
+  },
+  {
+    "range": {
+      "start": 256,
+      "end": 383
+    },
+    "title": "Latin Extended-A"
+  },
+  {
+    "range": {
+      "start": 384,
+      "end": 591
+    },
+    "title": "Latin Extended-B"
+  },
+  {
+    "range": {
+      "start": 592,
+      "end": 687
+    },
+    "title": "IPA Extensions"
+  },
+  {
+    "range": {
+      "start": 688,
+      "end": 767
+    },
+    "title": "Spacing Modifier Letters"
+  },
+  {
+    "range": {
+      "start": 768,
+      "end": 879
+    },
+    "title": "Combining Diacritical Marks"
+  },
+  {
+    "range": {
+      "start": 880,
+      "end": 1023
+    },
+    "title": "Greek and Coptic"
+  },
+  {
+    "range": {
+      "start": 1024,
+      "end": 1279
+    },
+    "title": "Cyrillic"
+  },
+  {
+    "range": {
+      "start": 1280,
+      "end": 1327
+    },
+    "title": "Cyrillic Supplement"
+  },
+  {
+    "range": {
+      "start": 1328,
+      "end": 1423
+    },
+    "title": "Armenian"
+  },
+  {
+    "range": {
+      "start": 1424,
+      "end": 1535
+    },
+    "title": "Hebrew"
+  },
+  {
+    "range": {
+      "start": 1536,
+      "end": 1791
+    },
+    "title": "Arabic"
+  },
+  {
+    "range": {
+      "start": 1792,
+      "end": 1871
+    },
+    "title": "Syriac"
+  },
+  {
+    "range": {
+      "start": 1872,
+      "end": 1919
+    },
+    "title": "Arabic Supplement"
+  },
+  {
+    "range": {
+      "start": 1920,
+      "end": 1983
+    },
+    "title": "Thaana"
+  },
+  {
+    "range": {
+      "start": 1984,
+      "end": 2047
+    },
+    "title": "NKo"
+  },
+  {
+    "range": {
+      "start": 2048,
+      "end": 2111
+    },
+    "title": "Samaritan"
+  },
+  {
+    "range": {
+      "start": 2112,
+      "end": 2143
+    },
+    "title": "Mandaic"
+  },
+  {
+    "range": {
+      "start": 2144,
+      "end": 2159
+    },
+    "title": "Syriac Supplement"
+  },
+  {
+    "range": {
+      "start": 2160,
+      "end": 2207
+    },
+    "title": "Arabic Extended-B"
+  },
+  {
+    "range": {
+      "start": 2208,
+      "end": 2303
+    },
+    "title": "Arabic Extended-A"
+  },
+  {
+    "range": {
+      "start": 2304,
+      "end": 2431
+    },
+    "title": "Devanagari"
+  },
+  {
+    "range": {
+      "start": 2432,
+      "end": 2559
+    },
+    "title": "Bengali"
+  },
+  {
+    "range": {
+      "start": 2560,
+      "end": 2687
+    },
+    "title": "Gurmukhi"
+  },
+  {
+    "range": {
+      "start": 2688,
+      "end": 2815
+    },
+    "title": "Gujarati"
+  },
+  {
+    "range": {
+      "start": 2816,
+      "end": 2943
+    },
+    "title": "Oriya"
+  },
+  {
+    "range": {
+      "start": 2944,
+      "end": 3071
+    },
+    "title": "Tamil"
+  },
+  {
+    "range": {
+      "start": 3072,
+      "end": 3199
+    },
+    "title": "Telugu"
+  },
+  {
+    "range": {
+      "start": 3200,
+      "end": 3327
+    },
+    "title": "Kannada"
+  },
+  {
+    "range": {
+      "start": 3328,
+      "end": 3455
+    },
+    "title": "Malayalam"
+  },
+  {
+    "range": {
+      "start": 3456,
+      "end": 3583
+    },
+    "title": "Sinhala"
+  },
+  {
+    "range": {
+      "start": 3584,
+      "end": 3711
+    },
+    "title": "Thai"
+  },
+  {
+    "range": {
+      "start": 3712,
+      "end": 3839
+    },
+    "title": "Lao"
+  },
+  {
+    "range": {
+      "start": 3840,
+      "end": 4095
+    },
+    "title": "Tibetan"
+  },
+  {
+    "range": {
+      "start": 4096,
+      "end": 4255
+    },
+    "title": "Myanmar"
+  },
+  {
+    "range": {
+      "start": 4256,
+      "end": 4351
+    },
+    "title": "Georgian"
+  },
+  {
+    "range": {
+      "start": 4352,
+      "end": 4607
+    },
+    "title": "Hangul Jamo"
+  },
+  {
+    "range": {
+      "start": 4608,
+      "end": 4991
+    },
+    "title": "Ethiopic"
+  },
+  {
+    "range": {
+      "start": 4992,
+      "end": 5023
+    },
+    "title": "Ethiopic Supplement"
+  },
+  {
+    "range": {
+      "start": 5024,
+      "end": 5119
+    },
+    "title": "Cherokee"
+  },
+  {
+    "range": {
+      "start": 5120,
+      "end": 5759
+    },
+    "title": "Unified Canadian Aboriginal Syllabics"
+  },
+  {
+    "range": {
+      "start": 5760,
+      "end": 5791
+    },
+    "title": "Ogham"
+  },
+  {
+    "range": {
+      "start": 5792,
+      "end": 5887
+    },
+    "title": "Runic"
+  },
+  {
+    "range": {
+      "start": 5888,
+      "end": 5919
+    },
+    "title": "Tagalog"
+  },
+  {
+    "range": {
+      "start": 5920,
+      "end": 5951
+    },
+    "title": "Hanunoo"
+  },
+  {
+    "range": {
+      "start": 5952,
+      "end": 5983
+    },
+    "title": "Buhid"
+  },
+  {
+    "range": {
+      "start": 5984,
+      "end": 6015
+    },
+    "title": "Tagbanwa"
+  },
+  {
+    "range": {
+      "start": 6016,
+      "end": 6143
+    },
+    "title": "Khmer"
+  },
+  {
+    "range": {
+      "start": 6144,
+      "end": 6319
+    },
+    "title": "Mongolian"
+  },
+  {
+    "range": {
+      "start": 6320,
+      "end": 6399
+    },
+    "title": "Unified Canadian Aboriginal Syllabics Extended"
+  },
+  {
+    "range": {
+      "start": 6400,
+      "end": 6479
+    },
+    "title": "Limbu"
+  },
+  {
+    "range": {
+      "start": 6480,
+      "end": 6527
+    },
+    "title": "Tai Le"
+  },
+  {
+    "range": {
+      "start": 6528,
+      "end": 6623
+    },
+    "title": "New Tai Lue"
+  },
+  {
+    "range": {
+      "start": 6624,
+      "end": 6655
+    },
+    "title": "Khmer Symbols"
+  },
+  {
+    "range": {
+      "start": 6656,
+      "end": 6687
+    },
+    "title": "Buginese"
+  },
+  {
+    "range": {
+      "start": 6688,
+      "end": 6831
+    },
+    "title": "Tai Tham"
+  },
+  {
+    "range": {
+      "start": 6832,
+      "end": 6911
+    },
+    "title": "Combining Diacritical Marks Extended"
+  },
+  {
+    "range": {
+      "start": 6912,
+      "end": 7039
+    },
+    "title": "Balinese"
+  },
+  {
+    "range": {
+      "start": 7040,
+      "end": 7103
+    },
+    "title": "Sundanese"
+  },
+  {
+    "range": {
+      "start": 7104,
+      "end": 7167
+    },
+    "title": "Batak"
+  },
+  {
+    "range": {
+      "start": 7168,
+      "end": 7247
+    },
+    "title": "Lepcha"
+  },
+  {
+    "range": {
+      "start": 7248,
+      "end": 7295
+    },
+    "title": "Ol Chiki"
+  },
+  {
+    "range": {
+      "start": 7296,
+      "end": 7311
+    },
+    "title": "Cyrillic Extended-C"
+  },
+  {
+    "range": {
+      "start": 7312,
+      "end": 7359
+    },
+    "title": "Georgian Extended"
+  },
+  {
+    "range": {
+      "start": 7360,
+      "end": 7375
+    },
+    "title": "Sundanese Supplement"
+  },
+  {
+    "range": {
+      "start": 7376,
+      "end": 7423
+    },
+    "title": "Vedic Extensions"
+  },
+  {
+    "range": {
+      "start": 7424,
+      "end": 7551
+    },
+    "title": "Phonetic Extensions"
+  },
+  {
+    "range": {
+      "start": 7552,
+      "end": 7615
+    },
+    "title": "Phonetic Extensions Supplement"
+  },
+  {
+    "range": {
+      "start": 7616,
+      "end": 7679
+    },
+    "title": "Combining Diacritical Marks Supplement"
+  },
+  {
+    "range": {
+      "start": 7680,
+      "end": 7935
+    },
+    "title": "Latin Extended Additional"
+  },
+  {
+    "range": {
+      "start": 7936,
+      "end": 8191
+    },
+    "title": "Greek Extended"
+  },
+  {
+    "range": {
+      "start": 8192,
+      "end": 8303
+    },
+    "title": "General Punctuation"
+  },
+  {
+    "range": {
+      "start": 8304,
+      "end": 8351
+    },
+    "title": "Superscripts and Subscripts"
+  },
+  {
+    "range": {
+      "start": 8352,
+      "end": 8399
+    },
+    "title": "Currency Symbols"
+  },
+  {
+    "range": {
+      "start": 8400,
+      "end": 8447
+    },
+    "title": "Combining Diacritical Marks for Symbols"
+  },
+  {
+    "range": {
+      "start": 8448,
+      "end": 8527
+    },
+    "title": "Letterlike Symbols"
+  },
+  {
+    "range": {
+      "start": 8528,
+      "end": 8591
+    },
+    "title": "Number Forms"
+  },
+  {
+    "range": {
+      "start": 8592,
+      "end": 8703
+    },
+    "title": "Arrows"
+  },
+  {
+    "range": {
+      "start": 8704,
+      "end": 8959
+    },
+    "title": "Mathematical Operators"
+  },
+  {
+    "range": {
+      "start": 8960,
+      "end": 9215
+    },
+    "title": "Miscellaneous Technical"
+  },
+  {
+    "range": {
+      "start": 9216,
+      "end": 9279
+    },
+    "title": "Control Pictures"
+  },
+  {
+    "range": {
+      "start": 9280,
+      "end": 9311
+    },
+    "title": "Optical Character Recognition"
+  },
+  {
+    "range": {
+      "start": 9312,
+      "end": 9471
+    },
+    "title": "Enclosed Alphanumerics"
+  },
+  {
+    "range": {
+      "start": 9472,
+      "end": 9599
+    },
+    "title": "Box Drawing"
+  },
+  {
+    "range": {
+      "start": 9600,
+      "end": 9631
+    },
+    "title": "Block Elements"
+  },
+  {
+    "range": {
+      "start": 9632,
+      "end": 9727
+    },
+    "title": "Geometric Shapes"
+  },
+  {
+    "range": {
+      "start": 9728,
+      "end": 9983
+    },
+    "title": "Miscellaneous Symbols"
+  },
+  {
+    "range": {
+      "start": 9984,
+      "end": 10175
+    },
+    "title": "Dingbats"
+  },
+  {
+    "range": {
+      "start": 10176,
+      "end": 10223
+    },
+    "title": "Miscellaneous Mathematical Symbols-A"
+  },
+  {
+    "range": {
+      "start": 10224,
+      "end": 10239
+    },
+    "title": "Supplemental Arrows-A"
+  },
+  {
+    "range": {
+      "start": 10240,
+      "end": 10495
+    },
+    "title": "Braille Patterns"
+  },
+  {
+    "range": {
+      "start": 10496,
+      "end": 10623
+    },
+    "title": "Supplemental Arrows-B"
+  },
+  {
+    "range": {
+      "start": 10624,
+      "end": 10751
+    },
+    "title": "Miscellaneous Mathematical Symbols-B"
+  },
+  {
+    "range": {
+      "start": 10752,
+      "end": 11007
+    },
+    "title": "Supplemental Mathematical Operators"
+  },
+  {
+    "range": {
+      "start": 11008,
+      "end": 11263
+    },
+    "title": "Miscellaneous Symbols and Arrows"
+  },
+  {
+    "range": {
+      "start": 11264,
+      "end": 11359
+    },
+    "title": "Glagolitic"
+  },
+  {
+    "range": {
+      "start": 11360,
+      "end": 11391
+    },
+    "title": "Latin Extended-C"
+  },
+  {
+    "range": {
+      "start": 11392,
+      "end": 11519
+    },
+    "title": "Coptic"
+  },
+  {
+    "range": {
+      "start": 11520,
+      "end": 11567
+    },
+    "title": "Georgian Supplement"
+  },
+  {
+    "range": {
+      "start": 11568,
+      "end": 11647
+    },
+    "title": "Tifinagh"
+  },
+  {
+    "range": {
+      "start": 11648,
+      "end": 11743
+    },
+    "title": "Ethiopic Extended"
+  },
+  {
+    "range": {
+      "start": 11744,
+      "end": 11775
+    },
+    "title": "Cyrillic Extended-A"
+  },
+  {
+    "range": {
+      "start": 11776,
+      "end": 11903
+    },
+    "title": "Supplemental Punctuation"
+  },
+  {
+    "range": {
+      "start": 11904,
+      "end": 12031
+    },
+    "title": "CJK Radicals Supplement"
+  },
+  {
+    "range": {
+      "start": 12032,
+      "end": 12255
+    },
+    "title": "Kangxi Radicals"
+  },
+  {
+    "range": {
+      "start": 12272,
+      "end": 12287
+    },
+    "title": "Ideographic Description Characters"
+  },
+  {
+    "range": {
+      "start": 12288,
+      "end": 12351
+    },
+    "title": "CJK Symbols and Punctuation"
+  },
+  {
+    "range": {
+      "start": 12352,
+      "end": 12447
+    },
+    "title": "Hiragana"
+  },
+  {
+    "range": {
+      "start": 12448,
+      "end": 12543
+    },
+    "title": "Katakana"
+  },
+  {
+    "range": {
+      "start": 12544,
+      "end": 12591
+    },
+    "title": "Bopomofo"
+  },
+  {
+    "range": {
+      "start": 12592,
+      "end": 12687
+    },
+    "title": "Hangul Compatibility Jamo"
+  },
+  {
+    "range": {
+      "start": 12688,
+      "end": 12703
+    },
+    "title": "Kanbun"
+  },
+  {
+    "range": {
+      "start": 12704,
+      "end": 12735
+    },
+    "title": "Bopomofo Extended"
+  },
+  {
+    "range": {
+      "start": 12736,
+      "end": 12783
+    },
+    "title": "CJK Strokes"
+  },
+  {
+    "range": {
+      "start": 12784,
+      "end": 12799
+    },
+    "title": "Katakana Phonetic Extensions"
+  },
+  {
+    "range": {
+      "start": 12800,
+      "end": 13055
+    },
+    "title": "Enclosed CJK Letters and Months"
+  },
+  {
+    "range": {
+      "start": 13056,
+      "end": 13311
+    },
+    "title": "CJK Compatibility"
+  },
+  {
+    "range": {
+      "start": 13312,
+      "end": 19903
+    },
+    "title": "CJK Unified Ideographs Extension A"
+  },
+  {
+    "range": {
+      "start": 19904,
+      "end": 19967
+    },
+    "title": "Yijing Hexagram Symbols"
+  },
+  {
+    "range": {
+      "start": 19968,
+      "end": 40959
+    },
+    "title": "CJK Unified Ideographs"
+  },
+  {
+    "range": {
+      "start": 40960,
+      "end": 42127
+    },
+    "title": "Yi Syllables"
+  },
+  {
+    "range": {
+      "start": 42128,
+      "end": 42191
+    },
+    "title": "Yi Radicals"
+  },
+  {
+    "range": {
+      "start": 42192,
+      "end": 42239
+    },
+    "title": "Lisu"
+  },
+  {
+    "range": {
+      "start": 42240,
+      "end": 42559
+    },
+    "title": "Vai"
+  },
+  {
+    "range": {
+      "start": 42560,
+      "end": 42655
+    },
+    "title": "Cyrillic Extended-B"
+  },
+  {
+    "range": {
+      "start": 42656,
+      "end": 42751
+    },
+    "title": "Bamum"
+  },
+  {
+    "range": {
+      "start": 42752,
+      "end": 42783
+    },
+    "title": "Modifier Tone Letters"
+  },
+  {
+    "range": {
+      "start": 42784,
+      "end": 43007
+    },
+    "title": "Latin Extended-D"
+  },
+  {
+    "range": {
+      "start": 43008,
+      "end": 43055
+    },
+    "title": "Syloti Nagri"
+  },
+  {
+    "range": {
+      "start": 43056,
+      "end": 43071
+    },
+    "title": "Common Indic Number Forms"
+  },
+  {
+    "range": {
+      "start": 43072,
+      "end": 43135
+    },
+    "title": "Phags-pa"
+  },
+  {
+    "range": {
+      "start": 43136,
+      "end": 43231
+    },
+    "title": "Saurashtra"
+  },
+  {
+    "range": {
+      "start": 43232,
+      "end": 43263
+    },
+    "title": "Devanagari Extended"
+  },
+  {
+    "range": {
+      "start": 43264,
+      "end": 43311
+    },
+    "title": "Kayah Li"
+  },
+  {
+    "range": {
+      "start": 43312,
+      "end": 43359
+    },
+    "title": "Rejang"
+  },
+  {
+    "range": {
+      "start": 43360,
+      "end": 43391
+    },
+    "title": "Hangul Jamo Extended-A"
+  },
+  {
+    "range": {
+      "start": 43392,
+      "end": 43487
+    },
+    "title": "Javanese"
+  },
+  {
+    "range": {
+      "start": 43488,
+      "end": 43519
+    },
+    "title": "Myanmar Extended-B"
+  },
+  {
+    "range": {
+      "start": 43520,
+      "end": 43615
+    },
+    "title": "Cham"
+  },
+  {
+    "range": {
+      "start": 43616,
+      "end": 43647
+    },
+    "title": "Myanmar Extended-A"
+  },
+  {
+    "range": {
+      "start": 43648,
+      "end": 43743
+    },
+    "title": "Tai Viet"
+  },
+  {
+    "range": {
+      "start": 43744,
+      "end": 43775
+    },
+    "title": "Meetei Mayek Extensions"
+  },
+  {
+    "range": {
+      "start": 43776,
+      "end": 43823
+    },
+    "title": "Ethiopic Extended-A"
+  },
+  {
+    "range": {
+      "start": 43824,
+      "end": 43887
+    },
+    "title": "Latin Extended-E"
+  },
+  {
+    "range": {
+      "start": 43888,
+      "end": 43967
+    },
+    "title": "Cherokee Supplement"
+  },
+  {
+    "range": {
+      "start": 43968,
+      "end": 44031
+    },
+    "title": "Meetei Mayek"
+  },
+  {
+    "range": {
+      "start": 44032,
+      "end": 55215
+    },
+    "title": "Hangul Syllables"
+  },
+  {
+    "range": {
+      "start": 55216,
+      "end": 55295
+    },
+    "title": "Hangul Jamo Extended-B"
+  },
+  {
+    "range": {
+      "start": 55296,
+      "end": 56191
+    },
+    "title": "High Surrogates"
+  },
+  {
+    "range": {
+      "start": 56192,
+      "end": 56319
+    },
+    "title": "High Private Use Surrogates"
+  },
+  {
+    "range": {
+      "start": 56320,
+      "end": 57343
+    },
+    "title": "Low Surrogates"
+  },
+  {
+    "range": {
+      "start": 57344,
+      "end": 63743
+    },
+    "title": "Private Use Area"
+  },
+  {
+    "range": {
+      "start": 63744,
+      "end": 64255
+    },
+    "title": "CJK Compatibility Ideographs"
+  },
+  {
+    "range": {
+      "start": 64256,
+      "end": 64335
+    },
+    "title": "Alphabetic Presentation Forms"
+  },
+  {
+    "range": {
+      "start": 64336,
+      "end": 65023
+    },
+    "title": "Arabic Presentation Forms-A"
+  },
+  {
+    "range": {
+      "start": 65024,
+      "end": 65039
+    },
+    "title": "Variation Selectors"
+  },
+  {
+    "range": {
+      "start": 65040,
+      "end": 65055
+    },
+    "title": "Vertical Forms"
+  },
+  {
+    "range": {
+      "start": 65056,
+      "end": 65071
+    },
+    "title": "Combining Half Marks"
+  },
+  {
+    "range": {
+      "start": 65072,
+      "end": 65103
+    },
+    "title": "CJK Compatibility Forms"
+  },
+  {
+    "range": {
+      "start": 65104,
+      "end": 65135
+    },
+    "title": "Small Form Variants"
+  },
+  {
+    "range": {
+      "start": 65136,
+      "end": 65279
+    },
+    "title": "Arabic Presentation Forms-B"
+  },
+  {
+    "range": {
+      "start": 65280,
+      "end": 65519
+    },
+    "title": "Halfwidth and Fullwidth Forms"
+  },
+  {
+    "range": {
+      "start": 65520,
+      "end": 65535
+    },
+    "title": "Specials"
+  },
+  {
+    "range": {
+      "start": 65536,
+      "end": 65663
+    },
+    "title": "Linear B Syllabary"
+  },
+  {
+    "range": {
+      "start": 65664,
+      "end": 65791
+    },
+    "title": "Linear B Ideograms"
+  },
+  {
+    "range": {
+      "start": 65792,
+      "end": 65855
+    },
+    "title": "Aegean Numbers"
+  },
+  {
+    "range": {
+      "start": 65856,
+      "end": 65935
+    },
+    "title": "Ancient Greek Numbers"
+  },
+  {
+    "range": {
+      "start": 65936,
+      "end": 65999
+    },
+    "title": "Ancient Symbols"
+  },
+  {
+    "range": {
+      "start": 66000,
+      "end": 66047
+    },
+    "title": "Phaistos Disc"
+  },
+  {
+    "range": {
+      "start": 66176,
+      "end": 66207
+    },
+    "title": "Lycian"
+  },
+  {
+    "range": {
+      "start": 66208,
+      "end": 66271
+    },
+    "title": "Carian"
+  },
+  {
+    "range": {
+      "start": 66272,
+      "end": 66303
+    },
+    "title": "Coptic Epact Numbers"
+  },
+  {
+    "range": {
+      "start": 66304,
+      "end": 66351
+    },
+    "title": "Old Italic"
+  },
+  {
+    "range": {
+      "start": 66352,
+      "end": 66383
+    },
+    "title": "Gothic"
+  },
+  {
+    "range": {
+      "start": 66384,
+      "end": 66431
+    },
+    "title": "Old Permic"
+  },
+  {
+    "range": {
+      "start": 66432,
+      "end": 66463
+    },
+    "title": "Ugaritic"
+  },
+  {
+    "range": {
+      "start": 66464,
+      "end": 66527
+    },
+    "title": "Old Persian"
+  },
+  {
+    "range": {
+      "start": 66560,
+      "end": 66639
+    },
+    "title": "Deseret"
+  },
+  {
+    "range": {
+      "start": 66640,
+      "end": 66687
+    },
+    "title": "Shavian"
+  },
+  {
+    "range": {
+      "start": 66688,
+      "end": 66735
+    },
+    "title": "Osmanya"
+  },
+  {
+    "range": {
+      "start": 66736,
+      "end": 66815
+    },
+    "title": "Osage"
+  },
+  {
+    "range": {
+      "start": 66816,
+      "end": 66863
+    },
+    "title": "Elbasan"
+  },
+  {
+    "range": {
+      "start": 66864,
+      "end": 66927
+    },
+    "title": "Caucasian Albanian"
+  },
+  {
+    "range": {
+      "start": 66928,
+      "end": 67007
+    },
+    "title": "Vithkuqi"
+  },
+  {
+    "range": {
+      "start": 67072,
+      "end": 67455
+    },
+    "title": "Linear A"
+  },
+  {
+    "range": {
+      "start": 67456,
+      "end": 67519
+    },
+    "title": "Latin Extended-F"
+  },
+  {
+    "range": {
+      "start": 67584,
+      "end": 67647
+    },
+    "title": "Cypriot Syllabary"
+  },
+  {
+    "range": {
+      "start": 67648,
+      "end": 67679
+    },
+    "title": "Imperial Aramaic"
+  },
+  {
+    "range": {
+      "start": 67680,
+      "end": 67711
+    },
+    "title": "Palmyrene"
+  },
+  {
+    "range": {
+      "start": 67712,
+      "end": 67759
+    },
+    "title": "Nabataean"
+  },
+  {
+    "range": {
+      "start": 67808,
+      "end": 67839
+    },
+    "title": "Hatran"
+  },
+  {
+    "range": {
+      "start": 67840,
+      "end": 67871
+    },
+    "title": "Phoenician"
+  },
+  {
+    "range": {
+      "start": 67872,
+      "end": 67903
+    },
+    "title": "Lydian"
+  },
+  {
+    "range": {
+      "start": 67968,
+      "end": 67999
+    },
+    "title": "Meroitic Hieroglyphs"
+  },
+  {
+    "range": {
+      "start": 68000,
+      "end": 68095
+    },
+    "title": "Meroitic Cursive"
+  },
+  {
+    "range": {
+      "start": 68096,
+      "end": 68191
+    },
+    "title": "Kharoshthi"
+  },
+  {
+    "range": {
+      "start": 68192,
+      "end": 68223
+    },
+    "title": "Old South Arabian"
+  },
+  {
+    "range": {
+      "start": 68224,
+      "end": 68255
+    },
+    "title": "Old North Arabian"
+  },
+  {
+    "range": {
+      "start": 68288,
+      "end": 68351
+    },
+    "title": "Manichaean"
+  },
+  {
+    "range": {
+      "start": 68352,
+      "end": 68415
+    },
+    "title": "Avestan"
+  },
+  {
+    "range": {
+      "start": 68416,
+      "end": 68447
+    },
+    "title": "Inscriptional Parthian"
+  },
+  {
+    "range": {
+      "start": 68448,
+      "end": 68479
+    },
+    "title": "Inscriptional Pahlavi"
+  },
+  {
+    "range": {
+      "start": 68480,
+      "end": 68527
+    },
+    "title": "Psalter Pahlavi"
+  },
+  {
+    "range": {
+      "start": 68608,
+      "end": 68687
+    },
+    "title": "Old Turkic"
+  },
+  {
+    "range": {
+      "start": 68736,
+      "end": 68863
+    },
+    "title": "Old Hungarian"
+  },
+  {
+    "range": {
+      "start": 68864,
+      "end": 68927
+    },
+    "title": "Hanifi Rohingya"
+  },
+  {
+    "range": {
+      "start": 69216,
+      "end": 69247
+    },
+    "title": "Rumi Numeral Symbols"
+  },
+  {
+    "range": {
+      "start": 69248,
+      "end": 69311
+    },
+    "title": "Yezidi"
+  },
+  {
+    "range": {
+      "start": 69376,
+      "end": 69423
+    },
+    "title": "Old Sogdian"
+  },
+  {
+    "range": {
+      "start": 69424,
+      "end": 69487
+    },
+    "title": "Sogdian"
+  },
+  {
+    "range": {
+      "start": 69488,
+      "end": 69551
+    },
+    "title": "Old Uyghur"
+  },
+  {
+    "range": {
+      "start": 69552,
+      "end": 69599
+    },
+    "title": "Chorasmian"
+  },
+  {
+    "range": {
+      "start": 69600,
+      "end": 69631
+    },
+    "title": "Elymaic"
+  },
+  {
+    "range": {
+      "start": 69632,
+      "end": 69759
+    },
+    "title": "Brahmi"
+  },
+  {
+    "range": {
+      "start": 69760,
+      "end": 69839
+    },
+    "title": "Kaithi"
+  },
+  {
+    "range": {
+      "start": 69840,
+      "end": 69887
+    },
+    "title": "Sora Sompeng"
+  },
+  {
+    "range": {
+      "start": 69888,
+      "end": 69967
+    },
+    "title": "Chakma"
+  },
+  {
+    "range": {
+      "start": 69968,
+      "end": 70015
+    },
+    "title": "Mahajani"
+  },
+  {
+    "range": {
+      "start": 70016,
+      "end": 70111
+    },
+    "title": "Sharada"
+  },
+  {
+    "range": {
+      "start": 70112,
+      "end": 70143
+    },
+    "title": "Sinhala Archaic Numbers"
+  },
+  {
+    "range": {
+      "start": 70144,
+      "end": 70223
+    },
+    "title": "Khojki"
+  },
+  {
+    "range": {
+      "start": 70272,
+      "end": 70319
+    },
+    "title": "Multani"
+  },
+  {
+    "range": {
+      "start": 70320,
+      "end": 70399
+    },
+    "title": "Khudawadi"
+  },
+  {
+    "range": {
+      "start": 70400,
+      "end": 70527
+    },
+    "title": "Grantha"
+  },
+  {
+    "range": {
+      "start": 70656,
+      "end": 70783
+    },
+    "title": "Newa"
+  },
+  {
+    "range": {
+      "start": 70784,
+      "end": 70879
+    },
+    "title": "Tirhuta"
+  },
+  {
+    "range": {
+      "start": 71040,
+      "end": 71167
+    },
+    "title": "Siddham"
+  },
+  {
+    "range": {
+      "start": 71168,
+      "end": 71263
+    },
+    "title": "Modi"
+  },
+  {
+    "range": {
+      "start": 71264,
+      "end": 71295
+    },
+    "title": "Mongolian Supplement"
+  },
+  {
+    "range": {
+      "start": 71296,
+      "end": 71375
+    },
+    "title": "Takri"
+  },
+  {
+    "range": {
+      "start": 71424,
+      "end": 71503
+    },
+    "title": "Ahom"
+  },
+  {
+    "range": {
+      "start": 71680,
+      "end": 71759
+    },
+    "title": "Dogra"
+  },
+  {
+    "range": {
+      "start": 71840,
+      "end": 71935
+    },
+    "title": "Warang Citi"
+  },
+  {
+    "range": {
+      "start": 71936,
+      "end": 72031
+    },
+    "title": "Dives Akuru"
+  },
+  {
+    "range": {
+      "start": 72096,
+      "end": 72191
+    },
+    "title": "Nandinagari"
+  },
+  {
+    "range": {
+      "start": 72192,
+      "end": 72271
+    },
+    "title": "Zanabazar Square"
+  },
+  {
+    "range": {
+      "start": 72272,
+      "end": 72367
+    },
+    "title": "Soyombo"
+  },
+  {
+    "range": {
+      "start": 72368,
+      "end": 72383
+    },
+    "title": "Unified Canadian Aboriginal Syllabics Extended-A"
+  },
+  {
+    "range": {
+      "start": 72384,
+      "end": 72447
+    },
+    "title": "Pau Cin Hau"
+  },
+  {
+    "range": {
+      "start": 72704,
+      "end": 72815
+    },
+    "title": "Bhaiksuki"
+  },
+  {
+    "range": {
+      "start": 72816,
+      "end": 72895
+    },
+    "title": "Marchen"
+  },
+  {
+    "range": {
+      "start": 72960,
+      "end": 73055
+    },
+    "title": "Masaram Gondi"
+  },
+  {
+    "range": {
+      "start": 73056,
+      "end": 73135
+    },
+    "title": "Gunjala Gondi"
+  },
+  {
+    "range": {
+      "start": 73440,
+      "end": 73471
+    },
+    "title": "Makasar"
+  },
+  {
+    "range": {
+      "start": 73648,
+      "end": 73663
+    },
+    "title": "Lisu Supplement"
+  },
+  {
+    "range": {
+      "start": 73664,
+      "end": 73727
+    },
+    "title": "Tamil Supplement"
+  },
+  {
+    "range": {
+      "start": 73728,
+      "end": 74751
+    },
+    "title": "Cuneiform"
+  },
+  {
+    "range": {
+      "start": 74752,
+      "end": 74879
+    },
+    "title": "Cuneiform Numbers and Punctuation"
+  },
+  {
+    "range": {
+      "start": 74880,
+      "end": 75087
+    },
+    "title": "Early Dynastic Cuneiform"
+  },
+  {
+    "range": {
+      "start": 77712,
+      "end": 77823
+    },
+    "title": "Cypro-Minoan"
+  },
+  {
+    "range": {
+      "start": 77824,
+      "end": 78895
+    },
+    "title": "Egyptian Hieroglyphs"
+  },
+  {
+    "range": {
+      "start": 78896,
+      "end": 78911
+    },
+    "title": "Egyptian Hieroglyph Format Controls"
+  },
+  {
+    "range": {
+      "start": 82944,
+      "end": 83583
+    },
+    "title": "Anatolian Hieroglyphs"
+  },
+  {
+    "range": {
+      "start": 92160,
+      "end": 92735
+    },
+    "title": "Bamum Supplement"
+  },
+  {
+    "range": {
+      "start": 92736,
+      "end": 92783
+    },
+    "title": "Mro"
+  },
+  {
+    "range": {
+      "start": 92784,
+      "end": 92879
+    },
+    "title": "Tangsa"
+  },
+  {
+    "range": {
+      "start": 92880,
+      "end": 92927
+    },
+    "title": "Bassa Vah"
+  },
+  {
+    "range": {
+      "start": 92928,
+      "end": 93071
+    },
+    "title": "Pahawh Hmong"
+  },
+  {
+    "range": {
+      "start": 93760,
+      "end": 93855
+    },
+    "title": "Medefaidrin"
+  },
+  {
+    "range": {
+      "start": 93952,
+      "end": 94111
+    },
+    "title": "Miao"
+  },
+  {
+    "range": {
+      "start": 94176,
+      "end": 94207
+    },
+    "title": "Ideographic Symbols and Punctuation"
+  },
+  {
+    "range": {
+      "start": 94208,
+      "end": 100351
+    },
+    "title": "Tangut"
+  },
+  {
+    "range": {
+      "start": 100352,
+      "end": 101119
+    },
+    "title": "Tangut Components"
+  },
+  {
+    "range": {
+      "start": 101120,
+      "end": 101631
+    },
+    "title": "Khitan Small Script"
+  },
+  {
+    "range": {
+      "start": 101632,
+      "end": 101759
+    },
+    "title": "Tangut Supplement"
+  },
+  {
+    "range": {
+      "start": 110576,
+      "end": 110591
+    },
+    "title": "Kana Extended-B"
+  },
+  {
+    "range": {
+      "start": 110592,
+      "end": 110847
+    },
+    "title": "Kana Supplement"
+  },
+  {
+    "range": {
+      "start": 110848,
+      "end": 110895
+    },
+    "title": "Kana Extended-A"
+  },
+  {
+    "range": {
+      "start": 110896,
+      "end": 110959
+    },
+    "title": "Small Kana Extension"
+  },
+  {
+    "range": {
+      "start": 110960,
+      "end": 111359
+    },
+    "title": "Nushu"
+  },
+  {
+    "range": {
+      "start": 113664,
+      "end": 113823
+    },
+    "title": "Duployan"
+  },
+  {
+    "range": {
+      "start": 113824,
+      "end": 113839
+    },
+    "title": "Shorthand Format Controls"
+  },
+  {
+    "range": {
+      "start": 118528,
+      "end": 118735
+    },
+    "title": "Znamenny Musical Notation"
+  },
+  {
+    "range": {
+      "start": 118784,
+      "end": 119039
+    },
+    "title": "Byzantine Musical Symbols"
+  },
+  {
+    "range": {
+      "start": 119040,
+      "end": 119295
+    },
+    "title": "Musical Symbols"
+  },
+  {
+    "range": {
+      "start": 119296,
+      "end": 119375
+    },
+    "title": "Ancient Greek Musical Notation"
+  },
+  {
+    "range": {
+      "start": 119520,
+      "end": 119551
+    },
+    "title": "Mayan Numerals"
+  },
+  {
+    "range": {
+      "start": 119552,
+      "end": 119647
+    },
+    "title": "Tai Xuan Jing Symbols"
+  },
+  {
+    "range": {
+      "start": 119648,
+      "end": 119679
+    },
+    "title": "Counting Rod Numerals"
+  },
+  {
+    "range": {
+      "start": 119808,
+      "end": 120831
+    },
+    "title": "Mathematical Alphanumeric Symbols"
+  },
+  {
+    "range": {
+      "start": 120832,
+      "end": 121519
+    },
+    "title": "Sutton SignWriting"
+  },
+  {
+    "range": {
+      "start": 122624,
+      "end": 122879
+    },
+    "title": "Latin Extended-G"
+  },
+  {
+    "range": {
+      "start": 122880,
+      "end": 122927
+    },
+    "title": "Glagolitic Supplement"
+  },
+  {
+    "range": {
+      "start": 123136,
+      "end": 123215
+    },
+    "title": "Nyiakeng Puachue Hmong"
+  },
+  {
+    "range": {
+      "start": 123536,
+      "end": 123583
+    },
+    "title": "Toto"
+  },
+  {
+    "range": {
+      "start": 123584,
+      "end": 123647
+    },
+    "title": "Wancho"
+  },
+  {
+    "range": {
+      "start": 124896,
+      "end": 124927
+    },
+    "title": "Ethiopic Extended-B"
+  },
+  {
+    "range": {
+      "start": 124928,
+      "end": 125151
+    },
+    "title": "Mende Kikakui"
+  },
+  {
+    "range": {
+      "start": 125184,
+      "end": 125279
+    },
+    "title": "Adlam"
+  },
+  {
+    "range": {
+      "start": 126064,
+      "end": 126143
+    },
+    "title": "Indic Siyaq Numbers"
+  },
+  {
+    "range": {
+      "start": 126208,
+      "end": 126287
+    },
+    "title": "Ottoman Siyaq Numbers"
+  },
+  {
+    "range": {
+      "start": 126464,
+      "end": 126719
+    },
+    "title": "Arabic Mathematical Alphabetic Symbols"
+  },
+  {
+    "range": {
+      "start": 126976,
+      "end": 127023
+    },
+    "title": "Mahjong Tiles"
+  },
+  {
+    "range": {
+      "start": 127024,
+      "end": 127135
+    },
+    "title": "Domino Tiles"
+  },
+  {
+    "range": {
+      "start": 127136,
+      "end": 127231
+    },
+    "title": "Playing Cards"
+  },
+  {
+    "range": {
+      "start": 127232,
+      "end": 127487
+    },
+    "title": "Enclosed Alphanumeric Supplement"
+  },
+  {
+    "range": {
+      "start": 127488,
+      "end": 127743
+    },
+    "title": "Enclosed Ideographic Supplement"
+  },
+  {
+    "range": {
+      "start": 127744,
+      "end": 128511
+    },
+    "title": "Miscellaneous Symbols and Pictographs"
+  },
+  {
+    "range": {
+      "start": 128512,
+      "end": 128591
+    },
+    "title": "Emoticons"
+  },
+  {
+    "range": {
+      "start": 128592,
+      "end": 128639
+    },
+    "title": "Ornamental Dingbats"
+  },
+  {
+    "range": {
+      "start": 128640,
+      "end": 128767
+    },
+    "title": "Transport and Map Symbols"
+  },
+  {
+    "range": {
+      "start": 128768,
+      "end": 128895
+    },
+    "title": "Alchemical Symbols"
+  },
+  {
+    "range": {
+      "start": 128896,
+      "end": 129023
+    },
+    "title": "Geometric Shapes Extended"
+  },
+  {
+    "range": {
+      "start": 129024,
+      "end": 129279
+    },
+    "title": "Supplemental Arrows-C"
+  },
+  {
+    "range": {
+      "start": 129280,
+      "end": 129535
+    },
+    "title": "Supplemental Symbols and Pictographs"
+  },
+  {
+    "range": {
+      "start": 129536,
+      "end": 129647
+    },
+    "title": "Chess Symbols"
+  },
+  {
+    "range": {
+      "start": 129648,
+      "end": 129791
+    },
+    "title": "Symbols and Pictographs Extended-A"
+  },
+  {
+    "range": {
+      "start": 129792,
+      "end": 130047
+    },
+    "title": "Symbols for Legacy Computing"
+  },
+  {
+    "range": {
+      "start": 131072,
+      "end": 173791
+    },
+    "title": "CJK Unified Ideographs Extension B"
+  },
+  {
+    "range": {
+      "start": 173824,
+      "end": 177983
+    },
+    "title": "CJK Unified Ideographs Extension C"
+  },
+  {
+    "range": {
+      "start": 177984,
+      "end": 178207
+    },
+    "title": "CJK Unified Ideographs Extension D"
+  },
+  {
+    "range": {
+      "start": 178208,
+      "end": 183983
+    },
+    "title": "CJK Unified Ideographs Extension E"
+  },
+  {
+    "range": {
+      "start": 183984,
+      "end": 191471
+    },
+    "title": "CJK Unified Ideographs Extension F"
+  },
+  {
+    "range": {
+      "start": 194560,
+      "end": 195103
+    },
+    "title": "CJK Compatibility Ideographs Supplement"
+  },
+  {
+    "range": {
+      "start": 196608,
+      "end": 201551
+    },
+    "title": "CJK Unified Ideographs Extension G"
+  },
+  {
+    "range": {
+      "start": 917504,
+      "end": 917631
+    },
+    "title": "Tags"
+  },
+  {
+    "range": {
+      "start": 917760,
+      "end": 917999
+    },
+    "title": "Variation Selectors Supplement"
+  },
+  {
+    "range": {
+      "start": 983040,
+      "end": 1048575
+    },
+    "title": "Supplementary Private Use Area-A"
+  },
+  {
+    "range": {
+      "start": 1048576,
+      "end": 1114111
+    },
+    "title": "Supplementary Private Use Area-B"
+  }
+]

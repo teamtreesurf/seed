@@ -1,0 +1,51 @@
+
+- slug: /human
+  tab: Humans @ Tree Surf
+  title: Humans
+  note: The diversity of the human experience
+  section:
+    - type: /component/human-image-grid
+      title: Political People
+      note: Key figures that are important to consider in today's world.
+      human:
+        - path: /human/joe-biden
+        - path: /human/xi-jinping
+        - path: /human/vladimir-putin
+        - path: /human/mohammed-bin-salman
+        - path: /human/donald-trump
+    - type: /component/image-grid
+      title: Various Groups
+      human:
+        filter:
+          path:
+            in:
+              - /human/on/earth
+              - /human/is/cop
+- title: All People
+  note: All the people across the globe.
+  link: /human/on/earth
+- title: Activists
+  link: /human/is/activist
+- title: Cops
+  link: /human/is/cop
+  image:
+    type: /query/image
+    select:
+      preview: Yes
+      select:
+        asset:
+          select:
+            width: Yes
+            height: Yes
+            url: Yes
+    filter:
+      path: /image/occupation/cop
+- title: Judges
+  link: /human/is/judge
+  image: /image/occupation/judge
+- title: Lawyers
+  link: /human/is/lawyer
+  image: /image/occupation/lawyer
+- title: Professors
+  link: /human/is/professor
+  image: /image/occupation/professor

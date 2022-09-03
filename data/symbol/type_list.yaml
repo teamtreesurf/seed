@@ -1,0 +1,23 @@
+
+- name: Latin
+  slug: /symbol/is/latin
+- name: Chinese
+  slug: /symbol/is/chinese
+- name: Arabic
+  slug: /symbol/is/arabic
+- name: Japanese
+  slug: /symbol/is/japanese
+- name: Katakana
+  slug: /symbol/is/katakana
+- name: Korean
+  slug: /symbol/is/korean
+- name: Tibetan
+  slug: /symbol/is/tibetan
+- name: Emoji
+  slug: /symbol/is/emoji
+- name: Geometric
+  slug: /symbol/is/geometric
+- name: Unicode
+  slug: /symbol/is/unicode
+- name: Mayan
+  slug: /symbol/is/mayan

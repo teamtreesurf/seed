@@ -1,0 +1,21 @@
+
+- name:
+    en: Bear
+  slug: /organism/bear
+- name:
+    en: Grizzley Bear
+  slug: /organism/bear/grizzley
+  type:
+    - /organism/bear
+- name:
+    en: Grasshopper
+  slug: /organism/grasshopper
+- name:
+    en: Fly
+  slug: /organism/fly
+- name:
+    en: Bug
+  slug: /organism/bug
+- name:
+    en: Mammal
+  slug: /organism/mammal
