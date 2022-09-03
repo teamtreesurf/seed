@@ -8,7 +8,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/teamtreesurf/seed/blob/make/view/view.svg?raw=true' height='192'>
+  <img src='https://github.com/teamtreesurf/seed/blob/make/view/seed.svg?raw=true' height='192'>
 </p>
 
 <h3 align='center'>seed</h3>
