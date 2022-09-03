@@ -8,10 +8,10 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/teamtreesurf/tree/blob/make/view/tree.svg?raw=true' height='312'>
+  <img src='https://github.com/teamtreesurf/seed/blob/make/view/view.svg?raw=true' height='192'>
 </p>
 
-<h3 align='center'>tree</h3>
+<h3 align='center'>seed</h3>
 <p align='center'>
   Structured Open Data
 </p>
